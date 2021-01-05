@@ -6,7 +6,7 @@ Make a Drum Kit using vanilla javascript.
 
 - [x] Set up template.
 - [x] Make a html form like a drum kit.
-- [ ] Do some styling in main page.
+- [x] Do some styling in main page.
 - [ ] Make a drum kit click function
 - [ ] Add some sound when user click the drum kit.
 
@@ -14,6 +14,6 @@ Make a Drum Kit using vanilla javascript.
 
 - [x] Set up template.
 - [x] Make a html form like a drum kit.
-- [ ] Do some styling in main page.
+- [x] Do some styling in main page.
 - [ ] Make a drum kit click function
 - [ ] Add some sound when user click the drum kit.
