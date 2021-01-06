@@ -28,6 +28,7 @@ body {
   flex-direction: column;
   background: rgba(0, 0, 0, 0.4);
   text-shadow: 0 0 0.5rem black;
+  transition: all 0.7s;
 }
 
 .key span {
@@ -35,4 +36,10 @@ body {
   text-decoration: uppercase;
   color: #f1c40f;
   text-align: center;
+}
+
+.playing {
+  transform: scale(1.2);
+  border: 0.4rem solid #f1c40f;
+  box-shadow: 0 0 10px #f1c40f;
 }
